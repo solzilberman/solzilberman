@@ -1,4 +1,6 @@
 ### Hi there 👋
+😄 ##Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/)
+
 
 <!--
 **solzilberman/solzilberman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
