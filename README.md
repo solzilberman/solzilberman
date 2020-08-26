@@ -1,5 +1,4 @@
-### Hi there 👋
-😄 ##Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/)
+:rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/)
 
 
 <!--
