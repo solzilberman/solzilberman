@@ -1,6 +1,6 @@
 ### Welcome 🙂
 :rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/) <br /> 
-:computer: This is also quite an [interesting.](https://solzilberman.github.io/reactGameofLife/) project <br />
+:computer: This is also quite an [interesting](https://solzilberman.github.io/reactGameofLife/) project <br />
 
 
 <!--
