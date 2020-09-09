@@ -2,6 +2,8 @@
 
 [![Sol's github stats](https://github-readme-stats.vercel.app/api?username=solzilberman&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![My favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solzilberman&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 :rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/) <br /> 
 :computer: I am passionate about [cellular automata](https://solzilberman.github.io/reactGameofLife/)! <br />
 
