@@ -1,6 +1,6 @@
 ### Welcome 🙂
 
-[![Sol's github stats](https://github-readme-stats.vercel.app/api?username=solzilberman&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Sol's github stats](https://github-readme-stats.vercel.app/api?username=solzilberman&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My favorite languages](https://github-readme-stats.vercel.app/api/top-langs/?username=solzilberman&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
