@@ -4,12 +4,11 @@
 :computer: I am passionate about [cellular automata](https://solzilberman.github.io/reactGameofLife/)! <br />
 
 ### Some cool statistics: 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=solzilberman&theme=cobalt" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solzilberman&theme=cobalt" />
-</a>
+
+[![Sol's github stats](https://github-readme-stats.vercel.app/api?username=solzilberman&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solzilberman&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
