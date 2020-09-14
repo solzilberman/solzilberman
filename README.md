@@ -2,7 +2,7 @@
 
 :rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/) <br /> 
 :computer: I am passionate about [cellular automata](https://solzilberman.github.io/reactGameofLife/)! <br />
-
+[![Sol's github stats](https://github-readme-stats.vercel.app/api?username=solzilberman)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **solzilberman/solzilberman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
