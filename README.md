@@ -3,11 +3,12 @@
 :rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/) <br /> 
 :computer: I am passionate about [cellular automata](https://solzilberman.github.io/reactGameofLife/)! <br />
 
+### Some cool statistics: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=solzilberman&theme=cobalt" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=solzilberman&theme=cobalt" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solzilberman&theme=cobalt" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solzilberman&theme=cobalt" />
 </a>
 
 
