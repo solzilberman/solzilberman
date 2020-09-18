@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sol</h1>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solzilberman" alt="solzilberman" /> </p>
 
 :rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/) <br /> 
