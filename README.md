@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sol</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solzilberman" alt="solzilberman" /> </p>
+<p align="center">
 <img src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px">
-<p align="right">
 :rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/) <br /> 
 :computer: I am passionate about [cellular automata](https://solzilberman.github.io/reactGameofLife/)! <br />
 </p>
