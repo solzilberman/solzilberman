@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Sol</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solzilberman" alt="solzilberman" /> </p>
-<img src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" width="200px">
+<img src="https://static.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="400px">
 :rocket: Check out some of my algorithmic generation projects [here!](https://solzilberman.github.io/Personal/) <br /> 
 :computer: I am passionate about [cellular automata](https://solzilberman.github.io/reactGameofLife/)! <br />
 
